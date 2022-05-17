@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/ersameerpatel/mssc-brewery/tree/main.svg?style=svg)](https://circleci.com/gh/ersameerpatel/mssc-brewery/tree/main)
+[![CircleCI](https://circleci.com/gh/ersameerpatel/beer-inventory-service/tree/main.svg?style=svg)](https://circleci.com/gh/ersameerpatel/beer-inventory-service/tree/main)
 
 #Sprint Boot Microservices Project
 ## 1. mssc-brewery (brewery-service)
