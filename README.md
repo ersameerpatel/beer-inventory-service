@@ -1,11 +1,27 @@
-# beer-inventory-service
+[![CircleCI](https://circleci.com/gh/ersameerpatel/mssc-brewery/tree/main.svg?style=svg)](https://circleci.com/gh/ersameerpatel/mssc-brewery/tree/main)
 
-[![CircleCI](https://circleci.com/gh/springframeworkguru/mssc-beer-inventory-service.svg?style=svg)](https://circleci.com/gh/springframeworkguru/mssc-beer-inventory-service)
-# MSSC Beer Inventory Service
+#Sprint Boot Microservices Project
+## 1. mssc-brewery (brewery-service)
+spring boot microservices project - follow along project with John Thompson on Udemy
 
-This repository contains source code examples used to support my on-line courses about the Spring Framework.
+* Git Repository : https://github.com/ersameerpatel/brewery-service/tree/initial-project
+* Udemy Course Link : https://synechron.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru/learn/lecture/15087678#overview
+* Original Git Repository : https://github.com/springframeworkguru/mssc-beer-service
 
-You can learn more about the courses here:
-* [Spring Boot Microservices with Spring Cloud](https://www.udemy.com/spring-boot-microservices-with-spring-cloud-beginner-to-guru/?couponCode=GIT_HUB2)
-* [Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/?couponCode=GITHUB_SFGPETCLINIC)
-* [Testing Spring Boot: Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO_SF5B2G)
+## 2. mssc-beer-order-service (beer-oder-service)
+spring boot microservices project - follow along project with John Thompson on Udemy
+
+* Udemy Course Link : https://synechron.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru/learn/lecture/15087678#overview
+* Original Git Repository : https://github.com/springframeworkguru/mssc-beer-order-service
+
+## 3. mssc-beer-inventory-service (beer-inventory-service)
+spring boot microservices project - follow along project with John Thompson on Udemy
+
+* Udemy Course Link : https://synechron.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru/learn/lecture/15088230#overview
+* Original Git Repository : https://github.com/springframeworkguru/mssc-beer-inventory-service
+
+__________________________________
+
+###Technical Notes :
+1. Jackson Examples : https://github.com/springframeworkguru/mssc-jackson-examples/tree/custom-deserializer
+2. Spring REST Docs Example : https://github.com/springframeworkguru/brewery-rest-docs/tree/restdocs-impl 
